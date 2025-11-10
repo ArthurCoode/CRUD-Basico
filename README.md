@@ -28,7 +28,6 @@ O projeto utiliza **Lombok**, **Spring Web**, **Spring Data JPA** e **H2 Databas
 - **Swagger (Springdoc OpenAPI)**
 - **Maven**
 
----
 
 ---
 
@@ -57,6 +56,7 @@ mvn clean install
 
 # 4️⃣ Execute o projeto
 mvn spring-boot:run
+
 
 
 
